@@ -1,3 +1,4 @@
+// import movieData from './data.js'
 const movieData = [
   {
     title: 'Choux and Maru go to Istanbul',
